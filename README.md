@@ -1,1 +1,1 @@
-# LaShopee
+A console-based application
